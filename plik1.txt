@@ -1,1 +1,2 @@
 Pierwsza zawartość
+Druga linijka w pliku1
